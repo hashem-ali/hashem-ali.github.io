@@ -1,3 +1,4 @@
 
 # Hashem Ali Bajabaa
-## Java Developer & IOS Developer 
+## Computer Science Junior Student at The Imam Mohammad bin Saud Islamic University.
+### skills: Java Developer & IOS Developer
